@@ -1,4 +1,4 @@
-# numc
+# matrix-ops (numc)
 
 - Was this project interesting? What was the most interesting aspect about it?
   - <b>The most interesting part to me about this project was that it involved getting accustomed to the inner workings of an API. Never before had I worked with an external codebase that is independent from the skeleton code for school projects.  While a bit complicated to navigate at first, I found that working with the C-Python interface was a good lesson in how the strengths of different programming languages can be combined to create one cohesive program that benefits from those strengths. The numc module I wrote in C worked exactly as expected in the Python interpreter, throwing the appropriate error messages when necessary. I found it pretty surprising how the API seamlessly overrides the default methods associated with certain operators with the methods I wrote in C.  </b>
